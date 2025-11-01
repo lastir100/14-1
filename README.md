@@ -22,3 +22,5 @@ README.md modified 20.10.2025
 
 файлы конфигурации CLI - .terraformrc, terraform.rc
 ```
+
+new line for task 3. branches 
