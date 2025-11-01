@@ -26,3 +26,5 @@ README.md modified 20.10.2025
 new line for task 3. branches 
 
 new line from vscode
+
+new line for another commit
